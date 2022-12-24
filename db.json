@@ -1,8 +1,76 @@
 {
-    "users":[
-        
+    "users": [
+
     ],
-    "quiz":[
-        
-    ]
+    "quiz": [{
+        "category": "Celebrities",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Which actress&#039;s real name was Frances Ethel Gumm?",
+        "correct_answer": "Judy Garland",
+        "incorrect_answers": ["Doris Day", "Julie Andrews", "Marilyn Monroe"]
+    }, {
+        "category": "Entertainment",
+        "type": "boolean",
+        "difficulty": "easy",
+        "question": "The 2010 film &quot;The Social Network&quot; is a biographical drama film about MySpace founder Tom Anderson.",
+        "correct_answer": "False",
+        "incorrect_answers": ["True"]
+    }, {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What is the name of the very first video uploaded to YouTube?",
+        "correct_answer": "Me at the zoo",
+        "incorrect_answers": ["tribute", "carrie rides a truck", "Her new puppy from great grandpa vern."]
+    }, {
+        "category": "General Knowledge",
+        "type": "boolean",
+        "difficulty": "easy",
+        "question": "A scientific study on peanuts in bars found traces of over 100 unique specimens of urine.",
+        "correct_answer": "False",
+        "incorrect_answers": ["True"]
+    }, {
+        "category": "Entertainment",
+        "type": "multiple",
+        "difficulty": "easy",
+        "question": "Which band released songs suchs as &quot;Rio&quot;, &quot;Girls on Film&quot;, and &quot;The Reflex&quot;?",
+        "correct_answer": "Duran Duran",
+        "incorrect_answers": ["The Cure", "New Order", "Depeche Mode"]
+    }, {
+        "category": "Entertainment",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "After England, more Shakespeare plays are set in this present day country than in any other.",
+        "correct_answer": "Italy",
+        "incorrect_answers": ["United States", "Greece", "France"]
+    }, {
+        "category": "Entertainment",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Who developed the 2016 farming RPG &quot;Stardew Valley&quot;?",
+        "correct_answer": "Eric Barone",
+        "incorrect_answers": ["Daisuke Amaya", "Jasper Byrne", "Lucas Pope"]
+    }, {
+        "category": "Celebrities",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "What year was O.J. Simpson aquitted of his murder charges?",
+        "correct_answer": "1995",
+        "incorrect_answers": ["1992", "1996", "1991"]
+    }, {
+        "category": "General Knowledge",
+        "type": "multiple",
+        "difficulty": "hard",
+        "question": "The word &quot;aprosexia&quot; means which of the following?",
+        "correct_answer": "The inability to concentrate on anything",
+        "incorrect_answers": ["The inability to make decisions", "A feverish desire to rip one&#039;s clothes off", "The inability to stand up"]
+    }, {
+        "category": "Entertainment: Comics",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "In the Hellboy universe, who founded the BPRD?",
+        "correct_answer": "Trevor Bruttenholm",
+        "incorrect_answers": ["Kate Corrigan", "Johann Kraus", "Benjamin Daimio"]
+    }]
 }
